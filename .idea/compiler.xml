@@ -11,6 +11,7 @@
         <module name="demo1" />
         <module name="digitalplan" />
         <module name="generator" />
+        <module name="portalservice" />
         <module name="userservice" />
       </profile>
     </annotationProcessing>
@@ -25,8 +26,10 @@
       <module name="digitalplan" target="1.8" />
       <module name="exhibition" target="1.8" />
       <module name="framework" target="1.8" />
+      <module name="framework_back" target="1.8" />
       <module name="generator" target="1.8" />
       <module name="logservice" target="1.8" />
+      <module name="portalservice" target="1.8" />
       <module name="userserver" target="1.8" />
       <module name="userservice" target="1.8" />
     </bytecodeTargetLevel>
